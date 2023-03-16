@@ -7,4 +7,4 @@
 
 # Support Server
 
-> [Click Here](https://discord.gg/lgnop) To Join Support Server.
+> [Click Here](https://discord.gg/sputnik) To Join Support Server.
